@@ -13,6 +13,12 @@
 
 ---
 
+## Demo Video
+
+![Demo](https://github.com/prasanthmanda/MemDBLite/blob/main/Demo.gif)
+
+---
+
 ## 🛠️ Getting Started
 
 ### Prerequisites
@@ -129,6 +135,3 @@ make test
 ```
 
 ---
-
-## 📄 License
-This project is licensed under the MIT License.
